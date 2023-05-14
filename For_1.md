@@ -52,9 +52,8 @@ public class For_2 {
 por linha, inclusive o X, se for o caso.**
 ```
 import java.util.Scanner;
-public class javafor_3 {
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+public class For_3 {
+	public static void main(String[] args) {		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Digite o Valor de x: ");
 		int x = sc.nextInt();
@@ -72,9 +71,8 @@ serão lidos em seguida. Mostre quantos destes valores X estão dentro do interv
 [10,20] e quantos estão fora do intervalo.**
 ```
 import java.util.Scanner;
-public class Lista {
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+public class For_4 {
+	public static void main(String[] args) {		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Quantos números você vai giditar? ");
 		int n = sc.nextInt();
@@ -216,7 +214,7 @@ após o ponto.**
 ```
 import java.util.Scanner;
 
-public class Exercisio9 {
+public class For_9 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Quantos casos de teste serao Digitados?");
